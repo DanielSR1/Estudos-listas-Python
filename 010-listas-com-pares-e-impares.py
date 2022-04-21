@@ -1,4 +1,4 @@
-#nesse exercicios criei um programa onde o usuário digita sete valores numéricos que são separados em uma lista única que mantenha separados os valores pares e ímpares em duas listas diferentes. após isso, valores são separados em pares e ímpares em ordem crescente.
+#Nesse exercicios criei um programa onde o usuário digita sete valores numéricos que são separados em uma lista única que mantenha separados os valores pares e ímpares em duas listas diferentes. após isso, valores são separados em pares e ímpares em ordem crescente.
 valores=[[], []]
 cont=0
 for l in range(0,7):
